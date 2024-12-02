@@ -1,0 +1,1 @@
+ So with displays and screens and monitors, we talk about resolution in terms of the number of pixels that are on display
